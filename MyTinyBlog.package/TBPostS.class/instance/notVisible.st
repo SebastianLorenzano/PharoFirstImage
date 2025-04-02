@@ -1,4 +1,4 @@
 blinking
 notVisible
 
-	visible := false
+	          visible := false

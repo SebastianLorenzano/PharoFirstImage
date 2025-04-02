@@ -1,4 +1,4 @@
 blinking
 switchVisible
 
-	visible := visible not
+	          visible := visible not

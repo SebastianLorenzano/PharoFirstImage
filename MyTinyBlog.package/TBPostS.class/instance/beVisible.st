@@ -1,4 +1,4 @@
 blinking
 beVisible
 
-	visible := true
+	          visible := true

@@ -1,9 +1,11 @@
 tests
 testTearDown
 
-	| tmp1 |
-	tmp1 := TBBlogS new.
-	self
-		assert: tmp1 posts isNotNil;
-		tearDown;
-		assert: tmp1 posts isNil
+	          | tmp1 |
+	          TBBlogS reset.
+	          blog := nil.
+	          blog := TBBlogS current.
+	          self
+		          assert: blog isNotNil;
+		          tearDown;
+		          assert: blog isNil

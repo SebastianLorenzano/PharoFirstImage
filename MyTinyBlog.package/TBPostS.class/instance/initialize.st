@@ -1,8 +1,8 @@
 blinking
 initialize
 
-	super initialize.
-	self
-		category: self class unclassifiedTag;
-		date: Date today;
-		notVisible
+	          super initialize.
+	          self
+		          category: self class unclassifiedTag;
+		          date: Date today;
+		          notVisible

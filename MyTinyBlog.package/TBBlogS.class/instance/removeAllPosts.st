@@ -1,4 +1,4 @@
-initialization
+accessing
 removeAllPosts
 
-	posts reset
+	          posts := OrderedCollection new

@@ -1,4 +1,4 @@
 initialization
 initialize
 
-	self reset
+	          self reset

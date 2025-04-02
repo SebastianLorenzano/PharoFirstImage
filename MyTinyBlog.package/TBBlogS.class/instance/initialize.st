@@ -1,5 +1,5 @@
 initialization
 initialize
 
-	super initialize.
-	posts := OrderedCollection new
+	          super initialize.
+	          posts := OrderedCollection new

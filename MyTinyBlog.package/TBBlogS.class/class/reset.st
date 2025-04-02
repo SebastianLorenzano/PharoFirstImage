@@ -1,4 +1,4 @@
 initialization
 reset
 
-	uniqueInstance := nil
+	          uniqueInstance := nil
