@@ -1,0 +1,4 @@
+initialization
+removeAllPosts
+
+	posts reset

@@ -1,0 +1,4 @@
+blinking
+notVisible
+
+	visible := false
