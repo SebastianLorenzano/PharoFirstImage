@@ -1,1 +1,0 @@
-(False >> #ifFalse:ifTrue:) sourceCode.
