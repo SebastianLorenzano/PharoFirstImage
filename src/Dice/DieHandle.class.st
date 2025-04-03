@@ -9,9 +9,20 @@ Class {
 	#tag : 'Core'
 }
 
+{ #category : 'initialization' }
+DieHandle >> + aDieHandle [
+
+	aDieHandle dice do: [ :each | self addDie: each ]
+]
+
 { #category : 'adding' }
 DieHandle >> addDie: aDie [
 	dice add: aDie 
+]
+
+{ #category : 'adding' }
+DieHandle >> dice [
+	^ dice
 ]
 
 { #category : 'adding' }
