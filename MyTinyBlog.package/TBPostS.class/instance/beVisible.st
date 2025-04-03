@@ -1,4 +1,0 @@
-blinking
-beVisible
-
-	          visible := true

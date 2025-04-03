@@ -1,4 +1,0 @@
-accessing
-size
-
-	          ^ posts size
